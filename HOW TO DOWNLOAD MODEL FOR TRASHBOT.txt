@@ -1,3 +1,0 @@
-Use this link to go to the google drive to download the actual object detection model
-https://drive.google.com/drive/folders/1b1j2Ai0K4S6N0vFLKbkm3aFxaFpD_39-?usp=sharing
-Using the readme, add it to the trashBot file and then it can be run
